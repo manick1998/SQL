@@ -1,0 +1,125 @@
+1. SQL Fundamentals (Basics)
+Introduction to SQL
+What is SQL?
+Why use SQL?
+SQL vs NoSQL
+Database vs DBMS vs RDBMS
+Basic SQL Commands
+Creating a database (CREATE DATABASE)
+Using a database (USE DATABASE)
+Deleting a database (DROP DATABASE)
+Data Types in SQL
+Numeric (INT, FLOAT, DECIMAL)
+String (VARCHAR, CHAR, TEXT)
+Date/Time (DATE, TIMESTAMP, DATETIME)
+Boolean (TRUE, FALSE)
+2. Data Definition Language (DDL)
+Creating and Modifying Tables
+CREATE TABLE – Creating a table
+ALTER TABLE – Modifying columns
+DROP TABLE – Deleting a table
+TRUNCATE TABLE – Removing all records
+Constraints
+PRIMARY KEY, FOREIGN KEY
+UNIQUE, NOT NULL, CHECK
+DEFAULT Constraint
+3. Data Manipulation Language (DML)
+Manipulating Data
+INSERT INTO – Adding records
+UPDATE – Modifying records
+DELETE FROM – Removing records
+Bulk Insert & Update
+Inserting multiple rows
+Updating multiple rows
+4. Data Query Language (DQL)
+Retrieving Data
+SELECT – Fetching data
+DISTINCT – Removing duplicates
+WHERE – Filtering data
+ORDER BY – Sorting results
+Aggregate Functions
+COUNT(), SUM(), AVG(), MIN(), MAX()
+Grouping Data
+GROUP BY – Grouping records
+HAVING – Filtering grouped results
+5. Joins (Combining Tables)
+Types of Joins
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+SELF JOIN
+CROSS JOIN
+6. Subqueries & Nested Queries
+Types of Subqueries
+Single-row Subqueries
+Multi-row Subqueries
+Correlated Subqueries
+Common Table Expressions (CTEs)
+Using WITH clause
+7. Advanced SQL Functions
+String Functions
+UPPER(), LOWER(), LENGTH()
+CONCAT(), SUBSTRING(), REPLACE()
+Date & Time Functions
+NOW(), CURDATE(), DATEDIFF(), TIMESTAMPDIFF()
+Mathematical Functions
+ABS(), ROUND(), FLOOR(), CEIL()
+Conditional Statements
+CASE WHEN – Conditional logic
+8. Indexing & Performance Optimization
+Index Types
+PRIMARY INDEX, UNIQUE INDEX
+FULL-TEXT INDEX, CLUSTERED INDEX
+Query Optimization
+Using EXPLAIN for performance analysis
+Optimizing slow queries
+9. Stored Procedures & Functions
+Stored Procedures
+Creating a stored procedure
+Using parameters in procedures
+User-Defined Functions
+Creating a function
+Scalar and Table-Valued Functions
+10. Triggers & Events
+Triggers
+BEFORE INSERT, AFTER INSERT
+BEFORE UPDATE, AFTER UPDATE
+Scheduled Events
+Automating tasks with MySQL events
+11. Transactions & ACID Properties
+Transaction Handling
+START TRANSACTION
+COMMIT, ROLLBACK, SAVEPOINT
+12. MySQL-Specific Features
+Storage Engines
+InnoDB, MyISAM, MEMORY, ARCHIVE
+Replication & Clustering
+Master-Slave Replication
+Multi-Master Replication
+MySQL JSON Functions
+Storing & querying JSON data
+13. Security & Best Practices
+User Management
+Creating & Managing Users
+GRANT, REVOKE – Managing Permissions
+SQL Injection Prevention
+Best practices to prevent SQL attacks
+14. SQL for Data Analysis
+Data Cleaning & Transformation
+Business Intelligence with SQL
+Using SQL with Python (MySQL Connector, SQLAlchemy)
+15. SQL Projects for Hands-on Practice
+Library Management System
+Employee Management System
+Online Retail Store Database
+Student Result Management System
+Hospital Management System
+Movie Ticket Booking System
+Inventory Management System
+E-Commerce Platform Database
+Hotel Reservation System
+Banking System Database
+Social Media Analytics System
+Stock Market Analysis System
+This course is designed to provide a comprehensive understanding of SQL and MySQL, covering topics from basic syntax to advanced features and best practices. The course is structured into 15 modules, each focusing on a specific
