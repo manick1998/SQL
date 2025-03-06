@@ -1,0 +1,1 @@
+-- 12. Mastering SELF JOIN in SQL (From Basics to Advanced)
